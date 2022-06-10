@@ -1,6 +1,6 @@
   /*
-  Created By Riy
-  Base Ori : DikaArdnt
+  Created By ROBI STORE
+  Base Ori : ROBI STORE
   Kalau Mau Nambahin Fitur Di › index.js
   Edit Tampilan Menu Dll. Di › Language › help.js
   */
@@ -19,25 +19,25 @@
   }
 
   // Setting Owner
-  global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-  global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-  global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.owner = ['6281278803117','6281278803117','6281278803117'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.premium = ['6281278803117'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.ownernomer = '6281278803117' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
   // Set Nama Own & Bot
-  global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-  global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-  global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+  global.ownername = 'ROBI STORE' //ubah jadi nama mu, note tanda ' gausah di hapus!
+  global.botname = 'RIMURU BOTZ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+  global.footer = 'ROBI STORE' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
   // Set Kebutuhan Button & Kontak
   //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-  global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-  global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-  global.myweb = 'https://api-riychdwayne.herokuapp.com'
+  global.youtube = 'https://youtube.com/channel/UCm1JARBudKEbbu-mgGwFSlQ'
+  global.mygc = 'https://chat.whatsapp.com/JKOXoj0Es4f4AurjhwmAfy'
+  global.myweb = 'https://linktr.ee/ROBISTORE'
   global.region = 'indonesia'
 
   // Set Wm
-  global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-  global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+  global.packname = '© RIMURU BOTZ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+  global.author = 'ROBI STORE' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
   // Set Nama Session
   //gausah di apa² in!
